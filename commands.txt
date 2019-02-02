@@ -1,7 +1,0 @@
-git log --author=name ----> author name filter
-
-git log --author=name -n /oneline ----> single line output
-
-git log --since=yyyy-mm-dd ---> from to now logs
-
-git log --until=yyyy-mm-dd ---> upto logs
